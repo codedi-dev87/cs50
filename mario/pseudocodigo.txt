@@ -1,0 +1,13 @@
+Pedir ao usúario o tamanho da altura da pirâmide.
+
+Se o número digitado pelo usuário  for um inteiro >= 1 ou <= 8 É VÁLIDO.
+Caso contrário, ficar nesse loop até que o usuário insira um número válido
+
+Criar uma variável "for" e iterar essa variável de 0 até o tamanho da altura digitada pelo usuário
+
+imprimir "#"
+
+colocar os . antes dos # para que fique alinhada a direita
+substituir os . por espaço.
+
+
